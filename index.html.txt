@@ -1,0 +1,37 @@
+
+<!DOCTYPE> <h1 style="color:White;">Welcome to Cosmos </h1> 
+<html>
+<head>
+<center> <h2style="border:2px solid Tomato;"><p style="color:red;">Everything about Cosmos</p></h2>
+
+<img src="C:\Users\LENOVO\Desktop\ROHAN\Website1\250px-Cosmos_spacetime_odyssey_titlecard.jpg"alt="Cosmos" style="width:400px;height:200px;"></center><br> </head>
+<body style="background-color:Black;">
+
+
+<br><h1 style="color:White;">What is Cosmos? </h1> 
+
+         <p style="color:Violet;"> Cosmos is originally a Greek word, meaning both "order" and "world," because the ancient Greeks thought that the world was perfectly harmonious and impeccably put in order.Also the universe seen as a well-ordered whole.<br> For example :
+"He sat staring deep into the void, reminding himself of man's place in the cosmos"<br></p>
+
+<a href="https://www.youtube.com/watch?v=EWlCarjmVhI"> You can also visit our youtube video to get more information </a>
+<br>
+ <h1 style="color:White;">What does Cosmology mean? </h1> 
+<br>
+ <p style="color:Violet;">Cosmology is the study of the cosmos, and in its broadest sense covers a variety of very different approaches: scientific, religious and philosophical. All cosmologies have in common an attempt to understand the implicit order within the whole of being. In this way, most religions and philosophical systems have a cosmology.</p><br>
+<a href="https://en.wikipedia.org/wiki/Cosmology"> Want to go to Wiki for Cosmology ? Click here</a>
+When cosmology is used without a qualifier, it often signifies physical cosmology, unless the context makes clear that a different meaning is intended.
+<br>
+<h1 style="color: White;">What are the mind blowing things of Cosmos?</h3>
+<br><p style="color:Violet;"> 1) Time is not absolute, time is not same for everyperson for example you standing at the top of burj khalifa will be traveling faster through time than you standing on the ground.
+<img src="C:\Users\LENOVO\Desktop\ROHAN\Website1\download.jpg"style="width:200px;height:200px;">> <br>
+
+2)Only about 4.9% of the mass-energy of the Universe is atoms: the kind of stuff you, me, the stars and galaxies are made of (and, of that, only half has been spotted with telescopes). About 26.8% of cosmic mass-energy is invisible dark matter, revealed because it tugs with its gravity on the visible stuff.<br>
+<img src="C:\Users\LENOVO\Desktop\ROHAN\Website1\downloaddark (1).jpg""style="width:200px;height:200px;">> <br><br>
+
+3)Most of the stuff in the Universe has repulsive gravity.</p>
+<img src="C:\Users\LENOVO\Desktop\ROHAN\Website1\downloadrepgravity (1).jpg""style="width:200px;height:200px;">
+
+
+                                    
+</body>
+</html>
